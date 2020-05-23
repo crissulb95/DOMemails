@@ -64,7 +64,7 @@ function enviarEmail(e) {
 
     //mensaje enviado ("gif envio exitoso")
     const enviado = document.createElement('img');
-    enviado.src = "img/mail.gif";
+    enviado.src = "https://media.giphy.com/media/PMPwpWrGFLu80/giphy.gif";
     enviado.style.display = 'block';
 
     //ocultar spinner.gif y mostrar mail.gif despues de cierto tiempo
